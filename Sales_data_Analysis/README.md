@@ -84,7 +84,7 @@ Customer spending peaks at **11 AM–12 PM** (~$2.3M) and again sharply at **7�
 
 ### 4. 🏆 Top Products by Share — *What do customers buy most?*
 
-![Top Products Pie](Visualizations/plot2.png)
+
 ![Sales by City](Visualizations/plot4.png)
 
 The five highest-volume products are near-equally split — AAA Batteries, AA Batteries, USB-C Charging Cable, Lightning Charging Cable, and Wired Headphones. All share a common profile: affordable, consumable, and frequently replaced.
