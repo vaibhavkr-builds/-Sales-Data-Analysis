@@ -126,7 +126,7 @@ Sales_Data_Analysis/
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/sales-data-analysis.git
+git clone https://github.com/your-vaibhavkr-builds/sales-data-analysis.git
 cd sales-data-analysis
 
 # Install dependencies
