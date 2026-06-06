@@ -1,10 +1,10 @@
-# 📊 Sales Data Analysis Project
+#  Sales Data Analysis Project
 
 > A complete end-to-end data analysis project uncovering revenue trends, customer behavior, and product performance from 12 months of real-world sales data — built with Python.
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 This project covers the full data analytics pipeline — from merging and cleaning raw multi-file CSVs to generating clear, business-ready insights through exploratory data analysis and visualization.
 
@@ -12,7 +12,7 @@ This project covers the full data analytics pipeline — from merging and cleani
 
 ---
 
-## 🎯 Business Questions Answered
+##  Business Questions Answered
 
 | # | Question |
 |---|----------|
@@ -24,7 +24,7 @@ This project covers the full data analytics pipeline — from merging and cleani
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 Multiple monthly CSV files merged into one unified dataset containing customer order records.
 
@@ -39,7 +39,7 @@ Multiple monthly CSV files merged into one unified dataset containing customer o
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 - Merged 12 monthly CSV files into a single dataset
 - Removed duplicates and repeated header rows
@@ -50,60 +50,60 @@ Multiple monthly CSV files merged into one unified dataset containing customer o
 
 ---
 
-## 📈 Key Findings & Visualizations
+## Key Findings & Visualizations
 
-### 1. 🗓️ Sales by Month — *Which month performed best?*
+### 1. Sales by Month — *Which month performed best?*
 
 ![Sales by Month](Visualizations/plot1.png)
 
 **December dominated** with ~$4.6M in revenue — nearly 2.5× January's figure. The clear seasonal trend shows Q4 outperforming the rest of the year, driven by holiday shopping and year-end spending.
 
-> 💡 **Recommendation:** Ramp up inventory and marketing in Q4, especially October–December.
+>  **Recommendation:** Ramp up inventory and marketing in Q4, especially October–December.
 
 ---
 
-### 2. 🌆 Sales by City — *Where are customers spending the most?*
+### 2. Sales by City — *Where are customers spending the most?*
 
 ![Top Products Pie](Visualizations/plot2.png)
 
 **San Francisco, CA** leads by a wide margin at ~$8.3M, more than 1.5× second-place Los Angeles (~$5.4M). California cities collectively dominate the revenue chart.
 
-> 💡 **Recommendation:** Prioritize marketing budgets and stock allocation toward CA, NY, and MA markets.
+>  **Recommendation:** Prioritize marketing budgets and stock allocation toward CA, NY, and MA markets.
 
 ---
 
-### 3. ⏰ Hourly Sales Trends — *When should ads run?*
+### 3. Hourly Sales Trends — *When should ads run?*
 
 ![Hourly Sales](Visualizations/plot3.png)
 
 Customer spending peaks at **11 AM–12 PM** (~$2.3M) and again sharply at **7–8 PM** (~$2.4M) — corresponding to lunch breaks and evening leisure time. Activity drops to its lowest between 3–5 AM.
 
-> 💡 **Recommendation:** Schedule ad campaigns, email blasts, and push notifications around 11 AM and 7 PM for maximum conversion.
+>  **Recommendation:** Schedule ad campaigns, email blasts, and push notifications around 11 AM and 7 PM for maximum conversion.
 
 ---
 
-### 4. 🏆 Top Products by Share — *What do customers buy most?*
+### 4. Top Products by Share — *What do customers buy most?*
 
 
 ![Sales by City](Visualizations/plot4.png)
 
 The five highest-volume products are near-equally split — AAA Batteries, AA Batteries, USB-C Charging Cable, Lightning Charging Cable, and Wired Headphones. All share a common profile: affordable, consumable, and frequently replaced.
 
-> 💡 **Recommendation:** Keep these in permanent stock and use them as bundle anchors to drive average order value.
+>  **Recommendation:** Keep these in permanent stock and use them as bundle anchors to drive average order value.
 
 ---
 
-### 5. 💰 Price vs. Quantity Sold — *Does price drive demand?*
+### 5. Price vs. Quantity Sold — *Does price drive demand?*
 
 ![Price vs Quantity](Visualizations/plot5.png)
 
 A clear inverse relationship exists — **Lightning Charging Cable** leads in quantity sold (~31,000 units) at a low price point, while premium items like the **MacBook Pro Laptop** sell far fewer units despite high price tags.
 
-> 💡 **Recommendation:** Maintain a balanced portfolio — low-cost accessories drive volume; premium products drive margin.
+>  **Recommendation:** Maintain a balanced portfolio — low-cost accessories drive volume; premium products drive margin.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Sales_Data_Analysis/
@@ -123,7 +123,7 @@ Sales_Data_Analysis/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # Clone the repo
@@ -139,7 +139,7 @@ jupyter notebook sales_dataset_analysis.ipynb
 
 ---
 
-## 📬 Connect
+##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
